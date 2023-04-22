@@ -173,7 +173,7 @@ const config = {
         //   height: 32,
         // },
         //copyright: `© ${new Date().getFullYear()} Wheremyfiji. Built with Docusaurus. 💖`,
-        copyright: `© ${new Date().getFullYear()} wheremyfiji 💖 • Built with <a href="https://docusaurus.io/" target="_blank">Docusaurus</a> • <a href="https://github.com/wheremyfiji/ShikiDev/commits/master" target="_blank">Updated ${new Date().toLocaleDateString()}</a>`,
+        copyright: `© ${new Date().getFullYear()} wheremyfiji 💖 • Built with <a href="https://docusaurus.io/" target="_blank">Docusaurus</a> • <a href="https://github.com/wheremyfiji/wheremyfiji.github.io/commits/master" target="_blank">Updated ${new Date().toLocaleDateString()}</a>`,
       },
       prism: {
         theme: lightCodeTheme,
