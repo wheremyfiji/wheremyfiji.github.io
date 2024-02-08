@@ -74,14 +74,14 @@ const config = {
       //   isCloseable: true,
       // },
 
-      announcementBar: {
-        id: 'bar',
-        content:
-          "😲 я снюхал <strong>плотной</strong> бэбры.. 💀",
-        backgroundColor: '#fafbfc', // Defaults to `#fff`.
-        textColor: '#091E42', // Defaults to `#000`.
-        isCloseable: true, // Defaults to `true`.
-      },
+      // announcementBar: {
+      //   id: 'bar',
+      //   content:
+      //     "😲 я снюхал <strong>плотной</strong> бэбры.. 💀",
+      //   backgroundColor: '#fafbfc', // Defaults to `#fff`.
+      //   textColor: '#091E42', // Defaults to `#000`.
+      //   isCloseable: true, // Defaults to `true`.
+      // },
 
       // docs: {
       //   sidebar: {
