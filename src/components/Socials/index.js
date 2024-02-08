@@ -31,7 +31,7 @@ const socialDetails = [
     {
         name: 'shikimori',
         classname: 'fab fa-s',
-        link: 'https://shikimori.me/wheremyfiji',
+        link: 'https://shikimori.one/wheremyfiji',
     },
 ];
 
